@@ -1,6 +1,5 @@
 import { combineReducers } from 'redux';
 import {
-    FETCH_SCORE,
     ADD_SCORE
 } from './types';
 
